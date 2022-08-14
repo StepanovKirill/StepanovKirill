@@ -10,7 +10,7 @@
 
 ## Мой стек технологий:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-JavaScript-000?&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
