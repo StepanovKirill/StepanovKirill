@@ -10,11 +10,11 @@
 
 ## Мой стек технологий:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetlanassi&show_icons=true)](https://github.com/svetlanassi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepanovKirill&show_icons=true)](https://github.com/StepanovKirill)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svetlanassi&layout=compact)](https://github.com/svetlanassi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanovKirill&layout=compact)](https://github.com/StepanovKirill)
