@@ -15,6 +15,8 @@
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/StepanovKirill)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepanovKirill&show_icons=true)](https://github.com/StepanovKirill)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanovKirill&layout=compact)](https://github.com/StepanovKirill)
