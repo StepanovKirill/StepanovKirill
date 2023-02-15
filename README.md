@@ -1,6 +1,4 @@
-# Всем привет!👋
-
-- junior frontend dev
+junior frontend dev
 
 ## Мои контакты:
 [![mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:stepanovk.s@yandex.ru)](mailto:stepanovk.s@yandex.ru)
@@ -15,5 +13,3 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
 <img src="https://www.codewars.com/users/StepanovKirill/badges/micro"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanovKirill&layout=compact)](https://github.com/StepanovKirill)
