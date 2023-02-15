@@ -1,7 +1,6 @@
 # Всем привет!👋
 
 - junior frontend dev
-- закончил курс React-разработчик в Яндекс.Практикум
 
 ## Мои контакты:
 [![mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:stepanovk.s@yandex.ru)](mailto:stepanovk.s@yandex.ru)
@@ -16,7 +15,5 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
 <img src="https://www.codewars.com/users/StepanovKirill/badges/micro"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepanovKirill&show_icons=true)](https://github.com/StepanovKirill)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanovKirill&layout=compact)](https://github.com/StepanovKirill)
